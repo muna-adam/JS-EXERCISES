@@ -8,7 +8,7 @@ if(score >= 50){
     console.log("You Passed")
 }
 
-else(score < 50);{
+else{
     
     console.log("You Failed")
 }
